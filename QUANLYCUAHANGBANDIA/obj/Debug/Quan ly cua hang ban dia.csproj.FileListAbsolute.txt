@@ -1,0 +1,64 @@
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.exe.config
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.exe
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.pdb
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.AssemblyReference.cache
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.frmQLBD.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Properties.Resources.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.GenerateResource.cache
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.CoreCompileInputs.cache
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.exe
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.pdb
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMTheLoai.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.ResolveComReference.cache
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMCongViec.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMKhachhang.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMKhodia.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMMatDia.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNhaCungCap.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNhanVien.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNoiSanXuat.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_TimkiemDia.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frmHoadonnhap.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\EntityFramework.dll
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\EntityFramework.xml
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.CopyComplete
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_BCTonKho.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_Hoadonban.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.TimHDB.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoTopNCC.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoHoaDonNhap.resources
+D:\CSLT 2\Quan ly cua hang ban dia\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoBanHang.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.exe.config
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.exe
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\Quan ly cua hang ban dia.pdb
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\EntityFramework.dll
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\EntityFramework.xml
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.AssemblyReference.cache
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.ResolveComReference.cache
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.frmQLBD.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoBanHang.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoHoaDonNhap.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_BCTonKho.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.BaoCaoTopNCC.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMCongViec.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMKhachhang.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMKhodia.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMMatDia.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNhaCungCap.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNhanVien.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMNoiSanXuat.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_DMTheLoai.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_Hoadonban.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frmHoadonnhap.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.TimHDB.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Forms.frm_TimkiemDia.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan_ly_cua_hang_ban_dia.Properties.Resources.resources
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.GenerateResource.cache
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.CoreCompileInputs.cache
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.csproj.CopyComplete
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.exe
+D:\Tailieu\CSLT 2\QUAN LY CUA HANG BAN DIA\Quan ly cua hang ban dia\obj\Debug\Quan ly cua hang ban dia.pdb

@@ -1,0 +1,4 @@
+D:\Tailieu\CSLT2\QUAN LY CUA HANG BAN DIA\QUANLYCUAHANGBANDIA\obj\Debug\Quan_ly_ban_dia.csproj.AssemblyReference.cache
+D:\Tailieu\CSLT2\QUAN LY CUA HANG BAN DIA\QUANLYCUAHANGBANDIA\obj\Debug\Quan_ly_ban_dia.csproj.ResolveComReference.cache
+D:\Tailieu\CSLT2\QUAN LY CUA HANG BAN DIA\QUANLYCUAHANGBANDIA\obj\Debug\Quan ly cua hang ban dia.exe
+D:\Tailieu\CSLT2\QUAN LY CUA HANG BAN DIA\QUANLYCUAHANGBANDIA\obj\Debug\Quan ly cua hang ban dia.pdb
